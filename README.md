@@ -1,6 +1,7 @@
 # itweb210
-Assignments for ITWEB-210 (DigitalCrafts)
-<em>Module 1</em>
+Assignments for ITWEB-210 (DigitalCrafts) <br>
+<strong>Module 1</strong>
+<br>
 Create a page file named “Home.html” that includes the elements listed below:
 
 - Standard HTML document structure (doctype, html, head, body, etc)
