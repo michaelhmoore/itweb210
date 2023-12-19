@@ -1,5 +1,5 @@
 # itweb210
-Assignments for ITWEB-210 (DigitalCrafts) <br>
+Assignments for ITWEB-210 (DigitalCrafts) <br><br>
 <strong>Module 1</strong>
 <br>
 Create a page file named “Home.html” that includes the elements listed below:
@@ -10,3 +10,7 @@ Create a page file named “Home.html” that includes the elements listed below
 - At least one ordered list with at least three items.
 - At least one unordered list with at least three items.
 - At least two hyperlinks, one displaying the URL and the other displaying alternate text.
+<br><br>
+<em>*The goal is not a creative visual presentation, but demonstrating HTML features.</em>
+<br>
+<hr>
