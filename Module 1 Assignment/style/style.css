@@ -1,0 +1,29 @@
+table {
+  border: black solid 3px;
+  border-collapse: collapse;
+}
+
+img {
+  width: 8rem;
+}
+
+p {
+  width: 50%
+}
+
+#gucci {
+  float: right;
+}
+
+td, th {
+  text-align: left;
+  border: solid black 1px;
+  padding: 10px;
+}
+
+
+
+em {
+  font-weight: bold;
+  background-color: yellow;
+}
