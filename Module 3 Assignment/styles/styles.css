@@ -1,0 +1,26 @@
+.service {
+  display: flex;
+}
+
+img {
+  width: 33%;
+  padding: 1rem;
+}
+
+p {
+  background-color: aqua;
+  color: blueviolet;
+}
+
+strong {
+  color: brown;
+}
+
+strong:hover {
+  background-color: red;
+}
+
+.names {
+  font-family: sans-serif;
+  font-size: larger;
+}
