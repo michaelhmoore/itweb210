@@ -36,7 +36,7 @@ Create a page file named “contact.html” that includes the elements listed be
 <em>*The goal is not a creative visual presentation, but demonstrating HTML features.</em>
 <hr>
 
-<strong>Module 2</strong>
+<strong>Module 3</strong>
 <br>
 
   - Create a page file named “products.html” that includes the standard HTML document structure (Control-Spacebar).
@@ -54,7 +54,7 @@ Create a page file named “contact.html” that includes the elements listed be
       - Set the background color for paragraph tags to “aqua”
       - Set the text color for paragraph tags to “blueviolet”
       - Set the color of text embraced by the “strong” HTML tag to brown
-      - Add a separate <strong> selector that is modified by the “Hover” pseudo-class, such that when the user hovers their mouse over the price of a product, it changes to a different background color.
+      - Add a separate `<strong>` selector that is modified by the “Hover” pseudo-class, such that when the user hovers their mouse over the price of a product, it changes to a different background color.
       - Create a CSS class called “names” (.names), and apply it to the p tags containing the names of the services on the products.html page, with the following attributes:
         - “Sans Serif” font
         - Font size set to “Larger”
