@@ -39,7 +39,7 @@ Create a page file named “contact.html” that includes the elements listed be
 <strong>Module 3</strong>
 <br>
 
-  - Create a page file named “products.html” that includes the standard HTML document structure (Control-Spacebar).
+Create a page file named “products.html” that includes the standard HTML document structure (Control-Spacebar).
   - Create a file named “styles.css” and link it in the Head section of products.html.
   - Add the following features to the products.html page:
     - Page title and description explaining that the page lists the services or products that are for sale.
@@ -58,6 +58,45 @@ Create a page file named “contact.html” that includes the elements listed be
       - Create a CSS class called “names” (.names), and apply it to the p tags containing the names of the services on the products.html page, with the following attributes:
         - “Sans Serif” font
         - Font size set to “Larger”
+<br><br>
+<em>*The goal is not a creative visual presentation, but demonstrating HTML features.</em>
+<hr>
+
+<strong>Module 4</strong>
+<br>
+
+Create a page file named “ourteam.html” that includes the standard HTML document structure (Control-Spacebar).
+  - Create a file named “styles.css” and link it in the Head section of products.html.
+  - Add the following features to the OURTEAM.html page:
+    - Create a div-based container (flexbox) to display the members of the team.
+      - Set the ID for the container to “teamdisplay”.
+    - Create divs to display 4 team members, each with the following details:
+      - Name
+      - Image (use images of people from Google Image SearchLinks to an external site.)
+      - Department, Role, or Title
+      - Brief Description (10-12 words)
+      - Email Address
+  - Add the following CSS tags to the styles.css file:
+    - Create a flexbox for the container “teamdisplay”.
+    - Using flexbox settings, display each member of the team with a background color and text color.
+    - Leave a 10px gap between each member of the team in the display.
+    - Set justify-content to center.
+    - Set flex-direction to row.
+    - Other settings are at your discretion.
+  - Create a page file named “media.html” that includes the standard HTML document structure (Control-Spacebar). (This page will show images of various products in use.)
+  - Create a grid container (div) to display 6 images in a 2-column layout.
+Add the following CSS tags to the styles.css file:
+  - Create a container called “media-container”.
+    - Set the display to grid.
+    - Set column widths to a max size of 90 pixels.
+    - Set a background color of light green.
+    - Align text to center.
+    - Set padding of 20 pixels.
+    - Set a border color of blue and a border width of 2 pixels.
+  
+<em>Note: Any unspecified details are at the discretion of the student.
+
+</em>
 <br><br>
 <em>*The goal is not a creative visual presentation, but demonstrating HTML features.</em>
 <hr>

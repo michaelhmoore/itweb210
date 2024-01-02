@@ -1,0 +1,57 @@
+#teamdisplay {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
+img {
+  width: 160px;
+  height: 200px;
+}
+
+.zoom {
+  object-fit: cover;
+}
+
+.team-member {
+  flex: 1;
+  background-color: gray;
+  color: white;
+  margin: 10px;
+  text-align: center;
+  padding: 3px;
+}
+
+.media-container {
+  display: grid;
+  grid-template-columns: 45% 45%;
+  background-color: lightgreen;
+  text-align: center;
+  padding: 20px;
+  border-color: blue;
+  border-width: 2px;
+  border: 1px solid blue 1px;
+  gap: 10px;
+}
+
+.media-container .description {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100%;
+}
+
+.media-container img {
+  width: 300px;
+  height: 250px;
+  object-fit: cover;
+}
+
+.tripod {
+  object-position: center 30%;
+}
+
+.throw-blanket {
+  object-position: center right;
+}
