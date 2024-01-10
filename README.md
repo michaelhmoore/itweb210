@@ -100,3 +100,15 @@ Add the following CSS tags to the styles.css file:
 <br><br>
 <em>*The goal is not a creative visual presentation, but demonstrating HTML features.</em>
 <hr>
+<strong>Module 5</strong>
+<br>
+
+  - Create a mobile version of either ourteam.html from the Module 4 Project Assignment, or products.html from the Module 3 Project Assignment. This page should be designed for a browser width of 340 pixels. (You need not follow all the design points from that assignment.)
+  - Recreate or modify the form from the Module 2 Project Assignment so that it meets a11y expectations:
+    - Set ID for input controls to facilitate a screen reader.
+    - Ensure that any labels associated with input controls contain appropriate text to identify the input control.
+  - Apply accessibility tools to one of the previous Project Assignments in this course and summarize your findings in 2-3 paragraphs. (Include a separate text file for this in your submission.)
+  - Select a popular website from the Web that focuses on news, sports, or entertainment that has both a desktop and a mobile version of the site. Examine the accessibility of the site, and summarize your findings in 2-3 paragraphs. (Include a separate text file for this in your submission.)
+  - Add the following JavaScript element to one of your HTML pages in this assignment (you may change the alert message if you wish). Place the code below within the head section of the page. (When the page loads it should display the alert message in a popup within the browser window.)
+<br><br>
+<em>*The goal is not a creative visual presentation, but demonstrating HTML features.</em>
